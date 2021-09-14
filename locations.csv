@@ -1,4 +1,4 @@
-location,continent,population,life_expectancy,hospital_beds_per_thousand,gdp_per_capita
+ubicacion,continente,poblacion,expectativa_vida,camas_hospitalarias_por_mil,PIB
 Afghanistan,Asia,38928341.0,64.83,0.5,1803.987
 Albania,Europe,2877800.0,78.57,2.89,11803.431
 Algeria,Africa,43851043.0,76.88,1.9,13913.839
